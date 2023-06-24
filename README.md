@@ -27,7 +27,7 @@ $ CREATE ROLE gorbaniov WITH LOGIN ENCRYPTED PASSWORD '1';
 $ CREATE DATABASE gor OWNER gorbaniov;
 $ Quit psql with \q
 ```
-# postgres
+# sqlite3
 
 ```bash
 $ sudo apt install sqlite3
