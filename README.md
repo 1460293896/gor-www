@@ -1,6 +1,23 @@
 # gor-www
 web interface
 
+# apache2
+
+```bash
+$ sudo apt update
+$ sudo apt upgrade
+$ sudo systemctl status apache2
+$ sudo apt install curl
+$ sudo apt install apache2
+```
+
+# php
+
+```bash
+$ sudo apt -y install php php-common
+$ sudo apt -y install libapache2-mod-php
+```
+
 # postgres
 
 ```bash
@@ -10,7 +27,13 @@ $ CREATE ROLE gorbaniov WITH LOGIN ENCRYPTED PASSWORD '1';
 $ CREATE DATABASE gor OWNER gorbaniov;
 $ Quit psql with \q
 ```
+# postgres
 
+```bash
+$ sudo apt install sqlite3
+$ sqlite3 --version
+```
+ 
 ## Web-interface
 $ git clone https://github.com/ixbaseANT/gor-www
 - Gor-www should now be unzip in `www/pool`.
