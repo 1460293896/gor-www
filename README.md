@@ -39,6 +39,7 @@ $ git clone https://github.com/ixbaseANT/gor-www
 - Gor-www should now be unzip in `www/pool`.
 - For gord monitoring run http://localhost/pool/v.php?ix=gor-pgDB-logs
 - Admin pool web interface http://localhost/pool/v.php?ix=gor-adm
+- SuperAdmin developer http://localhost/pool/v.php?ix=myadmin
 - User web interface http://localhost/pool
 
 # gor-adm.config
