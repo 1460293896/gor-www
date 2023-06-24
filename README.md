@@ -44,7 +44,7 @@ $ git clone https://github.com/ixbaseANT/gor-www
 # adm.config
 
 ```bash
-hostnsme
+hostname
 login
 password
 ```
