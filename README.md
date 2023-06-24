@@ -41,7 +41,7 @@ $ git clone https://github.com/ixbaseANT/gor-www
 - Admin pool web interface http://localhost/pool/v.php?ix=gor-adm
 - User web interface http://localhost/pool
 
-# adm.config
+# gor-adm.config
 
 ```bash
 hostname
